@@ -577,6 +577,17 @@ footer{
         }
 
 
+        
+        .left-skills h3{
+            size:0.5rem;
+        }
+
+        .right-skills h3{
+            size: 0.2rem;
+        }
+
+
+
 
 
     }
